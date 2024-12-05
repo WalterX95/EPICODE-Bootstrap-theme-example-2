@@ -1,0 +1,21 @@
+.course-card {
+    height: 280px;
+  }
+  .course-card .card-body {
+    height: 170px;
+  }
+  .course-card .card-footer {
+    height: 50px;
+  }
+
+  .purple {
+    background: #7550FE;
+  }
+
+  .w-5 {
+    width: 5% !important;
+  }
+
+  body {
+    font-family: "Inter", sans-serif !important;
+  }
